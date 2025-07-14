@@ -11,6 +11,6 @@ This project demonstrates a simple yet powerful **Shopping Agent** built using t
 - ⚙️ Runs synchronously with rich output formatting
 
 ## 🔑 Setup
-**1. Clone this repository:**
-git clone https://github.com/RahatBano58/shopping-agent.git
-cd shopping-agent
+**Clone this repository:**
+- git clone https://github.com/RahatBano58/shopping-agent.git
+- cd shopping-agent
