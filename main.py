@@ -30,6 +30,7 @@ config = RunConfig(
 # Define a function tool for product search
 @function_tool
 def get_products():
+    """Fetch a list of products from the online API."""
     url = "https://template-03-api.vercel.app/api/products"
     try:
         response = requests.get(url)
